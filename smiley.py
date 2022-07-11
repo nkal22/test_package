@@ -1,4 +1,4 @@
-Class test_Module():
+class test_Module():
   '''This module prints a smiley face
   
   INPUTS: none
@@ -8,4 +8,3 @@ Class test_Module():
   
   def smile():
     print (":-)")
-    
