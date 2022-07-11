@@ -1,1 +1,1 @@
-from .test_module import *
+from .smiley import *
